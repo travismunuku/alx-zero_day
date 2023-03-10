@@ -1,0 +1,2 @@
+#!/bin/bash 
+only push ~ files after successfully adding and committing them using the correct command lines
