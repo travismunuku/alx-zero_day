@@ -1,1 +1,1 @@
-how to navigate github 
+How to navigate github 
