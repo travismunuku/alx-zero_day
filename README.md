@@ -1,1 +1,2 @@
-How to navigate github 
+How to navigate and work with git and github
+
